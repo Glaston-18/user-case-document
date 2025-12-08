@@ -13,3 +13,10 @@ Username: info@techsolutions.com
 Password: Today!@#123 
  
 Login as Agency in Sign In screen
+
+225000-only db
+24300 - db+redis
+9000 - db+redis+local cache(ram)
+8100 -db+redis+local cache(ram)+frontend cache
+8550 - servered architecture
+4500 - serverless architecture
