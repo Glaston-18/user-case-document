@@ -20,3 +20,5 @@ Login as Agency in Sign In screen
 8100 -db+redis+local cache(ram)+frontend cache
 8550 - servered architecture
 4500 - serverless architecture
+
+https://v0.app/chat/fork-of-scholar-path-landing-page-Cv879ARzmNn?f=1&b=b_cqSpn0XXv1L
