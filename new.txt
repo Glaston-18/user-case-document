@@ -22,3 +22,6 @@ Login as Agency in Sign In screen
 4500 - serverless architecture
 
 https://v0.app/chat/fork-of-scholar-path-landing-page-Cv879ARzmNn?f=1&b=b_cqSpn0XXv1L
+
+////28thjan update
+code standards added
